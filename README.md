@@ -1,8 +1,8 @@
-# Olá Mundo! <img src="https://media.giphy.com/media/M52z7SjnRKHHG/giphy.gif" width="25px">
+# Olá Mundo! <img src="https://media.giphy.com/media/M52z7SjnRKHHG/giphy.gif" width="200px">
 
 📌 Teresina, Piauí,Brazil
 
-🌱 I’m currently learning about  **Web Scraping**, **React Native**, **Node.JS**, **React JS**
+🌱 Atualmente estudando sobre construção de APIs com Laravel
 
 ## 🚀💻 Tecnologias
 
