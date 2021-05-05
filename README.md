@@ -1,4 +1,5 @@
-# Olá Mundo! <img src="https://media.giphy.com/media/M52z7SjnRKHHG/giphy.gif" width="200px">
+# Olá Mundo!
+<img src="https://media.giphy.com/media/M52z7SjnRKHHG/giphy.gif" width="300px">
 
 📌 Teresina, Piauí,Brazil
 
