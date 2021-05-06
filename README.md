@@ -1,7 +1,7 @@
 # Olá Mundo!
 <img src="https://media.giphy.com/media/M52z7SjnRKHHG/giphy.gif" width="300px">
 
-📌 Teresina, Piauí,Brazil
+📌 Teresina - PI, Brazil
 
 🌱 Atualmente estudando sobre construção de APIs com Laravel
 
